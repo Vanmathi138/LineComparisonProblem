@@ -12,6 +12,8 @@ public class Main {
         System.out.println();
         System.out.println("Use cases of Line Comparison are: ");
         System.out.println("1. Use case1 : Calculate Line Length");
+        System.out.println("2. Use case2 : Check the Equality of 2 lines");
+
         System.out.print("Enter the use case: ");
         int useCase = scanner.nextInt();
 
