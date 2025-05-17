@@ -37,7 +37,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "UC-2/CheckEquality",
+    "git-widget-placeholder": "UC-3/CompareTwoLines",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/LineComparisonProblem/src/Main.java"
   }
