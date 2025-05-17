@@ -30,7 +30,7 @@ public class Main {
                     break;
                 case 4:
                     System.out.println("Exiting the program...");
-                    return; // ends the main method
+                    return;
                 default:
                     System.out.println("Invalid option. Please enter 1, 2, or 3.");
             }
