@@ -7,7 +7,21 @@ public class Main {
                 "Comparison Computation\n" +
                 "Program on Master Branch");
 
-        LineComparison.calculateLineLength();
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println();
+        System.out.println("Use cases of Line Comparison are: ");
+        System.out.println("1. Use case1 : Calculate Line Length");
+        System.out.print("Enter the use case: ");
+        int useCase = scanner.nextInt();
+
+        switch (useCase) {
+            case 1:
+                LineComparison.calculateLineLength();
+                break;
+            default:
+                System.out.println("Invalid choice.");
+        }
     }
 }
 class LineComparison{
