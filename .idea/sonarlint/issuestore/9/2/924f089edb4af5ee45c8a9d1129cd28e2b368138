@@ -1,6 +1,19 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ğ Ó–øÿÿÿÿ8‚Ğâí2J$8e06eba0-7744-40cc-9d9d-606d00628040
+r	java:S106"+Replace this use of System.out by a logger.(ğ Ó–øÿÿÿÿ8öÛÎãí2J$7cdc8fe1-8145-47da-a2ef-16ba36aeba96
 z
-java:S6126"2Replace this String concatenation with Text block.(ğ Ó–øÿÿÿÿ8­‚Ğâí2J$da72a845-df67-48b6-add2-e0eb244fce57
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8££ãí2
+java:S6126"2Replace this String concatenation with Text block.(ğ Ó–øÿÿÿÿ8öÛÎãí2J$d3d9e0b5-9f3a-4cfa-9889-4d55ebb654a7
+r	java:S106
+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8öÛÎãí2J$2ac5b2e9-bada-4453-8689-7632fd14ee54
+r	java:S106"+Replace this use of System.out by a logger.(ıßÃöùÿÿÿÿ8†ÜÎãí2J$897a1b29-1340-4917-81eb-38980e6cee19
+r	java:S106"+Replace this use of System.out by a logger.(ì¸°Ìúÿÿÿÿ8†ÜÎãí2J$a03b9e7a-0c54-46ed-95b9-d392d34b2827
+m	java:S106"+Replace this use of System.out by a logger.(ïàí–8†ÜÎãí2J$23bdddcf-eee4-404e-b472-2bdb2bc283ea
+
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(éŒÊ®8†ÜÎãí2J$ec49e3e6-cc36-4240-99aa-0a117e4f9d00
+m	java:S106"+Replace this use of System.out by a logger.(êŠáì8†ÜÎãí2J$10c9ff3d-24d3-49f9-8a4c-602e4ef27da2
+r	java:S106"+Replace this use of System.out by a logger.(€úÜñşÿÿÿÿ8†ÜÎãí2J$29206152-8da7-4d49-8f3f-5257353638e0
+r	java:S106"+Replace this use of System.out by a logger.(ÌËäıùÿÿÿÿ8†ÜÎãí2J$37ee269f-0a5b-4ee4-b5e4-be8718f8f781
+m	java:S106"+Replace this use of System.out by a logger.(ä†¡8–ÜÎãí2J$2a6f11da-5a30-4894-ba6f-4f5806a84b23
+r	java:S106""+Replace this use of System.out by a logger.(ûÜœ÷ÿÿÿÿÿ8–ÜÎãí2J$2b8ea377-96c9-4378-b320-d0aa204ffbaa
+m	java:S106#"+Replace this use of System.out by a logger.(”²ğ‘8–ÜÎãí2J$76a9df8a-f37a-4b58-9e7e-05c87b714a08
+m	java:S106%"+Replace this use of System.out by a logger.(ğ¬ı8–ÜÎãí2J$b82ff95c-1048-4222-bbfe-83ce56f64ebc
+m	java:S106)"+Replace this use of System.out by a logger.(¼«›¾8¬úÏãí2J$8f2c4977-86cd-42b9-b136-a55a69986a0b
