@@ -1,5 +1,20 @@
 
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8‹ø–Åí2J$139ab8dd-260e-4f63-9fbb-77a5840b7c48
-v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¢ø–Åí2J$f47393d0-d2d1-40c3-a151-ff2de129fc8c
+r	java:S106"+Replace this use of System.out by a logger.(ğ Ó–øÿÿÿÿ8‚Ğâí2J$22d5825c-a440-4bce-8847-c193505256f8
+z
+java:S6126"2Replace this String concatenation with Text block.(ğ Ó–øÿÿÿÿ8­‚Ğâí2J$8b00acbf-26f0-4a63-af71-6850b4307199
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ºƒĞâí2J$0bc59674-30e1-44a0-9553-700a1e50cb36
+r	java:S106"+Replace this use of System.out by a logger.(ıßÃöùÿÿÿÿ8ÊƒĞâí2J$675f4aa0-5cfd-4582-8f20-33c25500775f
+r	java:S106"+Replace this use of System.out by a logger.(ì¸°Ìúÿÿÿÿ8ÙƒĞâí2J$85e2cb61-3a15-44cf-a6dd-e3799bb00c30
+m	java:S106"+Replace this use of System.out by a logger.(ïàí–8Ô‰äâí2J$f33634f5-7569-4525-ad82-6942aa16d3e5
+
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(éŒÊ®8ã¨çâí2J$3f1c9d3b-5a94-43b0-b17b-4128c96cd319
+r	java:S106"+Replace this use of System.out by a logger.(Õôëøşÿÿÿÿ8ìæâí2J$ca69cf62-bfd5-4cde-980b-f8f98117715e
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(÷Ìîıÿÿÿÿ8ûæâí2J$64545bb1-e40e-45e9-9fba-b3d6ef51d08c
+r	java:S106 "+Replace this use of System.out by a logger.(õ÷Ìùøÿÿÿÿ8ûæâí2J$00fdfaf1-af3c-4fff-9650-548ec8ee024a
+r	java:S106!"+Replace this use of System.out by a logger.(ş‚Øôúÿÿÿÿ8ûæâí2J$ad2b161c-6657-4b27-b0d8-f91af81921a3
+l	java:S106#"+Replace this use of System.out by a logger.(¸¦ëx8ûæâí2J$956b6b87-c7d8-4b82-9b80-cda3259b0395
+m	java:S106&"+Replace this use of System.out by a logger.(Å¨ïè8ûæâí2J$ca370b99-0e1e-4102-bbb5-0cf0df2e9a26
+l	java:S106'"+Replace this use of System.out by a logger.(éƒ’P8‹æâí2J$a76db476-e30d-4690-9d22-1d869bdf9fc5
+m	java:S106)"+Replace this use of System.out by a logger.(Øê‰8‹æâí2J$8627896e-a94b-457e-a471-1a635cfe6fe8
+m	java:S106-"+Replace this use of System.out by a logger.(¿‡´º8‹æâí2J$51b02ced-23bc-4fe2-9107-28c4f1619611
